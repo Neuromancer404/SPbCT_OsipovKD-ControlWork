@@ -1,0 +1,4 @@
+﻿  Kontrol Work.cpp
+C:\Users\Neuromancer\source\repos\Kontrol Work\Kontrol Work\Kontrol Work.cpp(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Neuromancer\source\repos\Kontrol Work\Kontrol Work\Kontrol Work.cpp(12,10): warning C4101: cc: неиспользованная локальная переменная
+  Kontrol Work.vcxproj -> C:\Users\Neuromancer\source\repos\Kontrol Work\Debug\Kontrol Work.exe
